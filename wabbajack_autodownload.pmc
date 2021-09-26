@@ -1,0 +1,13 @@
+﻿[PMC Globals]|None||
+[PMC Code v5.4.1]|||1|Window,2,Fast,0,1,Input,-1,-1,1|1|Macro1
+Context=None|
+Groups=Start:1
+1|[LoopStart]|LoopStart|0|0|Loop|||||1|
+2|[LoopStart]|LoopStart|0|0|Loop|||||3|
+3|Left Click, Break, FoundX, FoundY, 1|0, 0, 9999, 9999, images/slow_download.png|1|0|ImageSearch||Window|||5|
+4|Move|0, 0, 0|1|0|Click|||||12|
+5|[LoopEnd]|LoopEnd|1|0|Loop|||||13|
+6|Left Click, Continue, FoundX, FoundY, 1|0, 0, 9999, 9999, images/click_here.png|1|0|ImageSearch||Window|||14|
+7|[Pause]||1|1000|Sleep|||||19|
+8|[LoopEnd]|LoopEnd|1|0|Loop|||||20|
+
