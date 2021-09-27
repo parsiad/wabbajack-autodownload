@@ -8,13 +8,21 @@
 
 ## Motivation
 
-Without a premium Nexus account, Wabbajack requires you to manually click on a download button every time it adds a new mod to the download queue. Since some modlists often have hundreds of mods, this is time consuming. Wabbajack Autodownload is a macro that automates this process.
+Without a premium Nexus account, you have to manually click on a download button every time a new mod is added to the download queue. Since some modlists often have hundreds of mods, this is time consuming. Wabbajack Autodownload is a macro for clicks on the download button for you.
+
+## Warning
+
+Using a bot to download from Nexus is in direct violation of [their TOS](https://help.nexusmods.com/article/18-terms-of-service):
+
+>  Attempting to download files or otherwise record data offered  through our services (including but not limited to the Nexus Mods  website and the Nexus Mods API) in a fashion that drastically exceeds  the expected average, through the use of software automation or  otherwise, is prohibited without expressed permission. **Users found in  violation of this policy will have their account suspended.**
+
+Use this at your own risk.
 
 ## Usage
 
-1. Download [Wabbajack Autodownload v0.1.0](https://github.com/parsiad/wabbajack-autodownload/archive/refs/tags/v0.1.0.zip)
+1. Download [Wabbajack Autodownload v0.1.1](https://github.com/parsiad/wabbajack-autodownload/archive/refs/tags/v0.1.1.zip)
 2. Download the [portable release of Pulover's Macro Creator (PMC) v5.4.1](https://github.com/Pulover/PuloversMacroCreator/releases/download/v5.4.1/PuloversMacroCreator-Portable.zip)
-3. Extract the contents of `wabbajack-autodownload-0.1.0.zip`
+3. Extract the contents of `wabbajack-autodownload-0.1.1.zip`
 4. Extract the contents of `PuloversMacroCreator-Portable.zip`
 5. Launch PMC by opening `MacroCreatorPortable\x64\MacroCreator\MacroCreator.exe`
 6. In PMC, select *File > Open* from the menu
