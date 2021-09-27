@@ -8,7 +8,7 @@
 
 ## Motivation
 
-Without a premium Nexus account, you have to manually click on a download button every time a new mod is added to the download queue. Since some modlists often have hundreds of mods, this is time consuming. Wabbajack Autodownload is a macro for clicks on the download button for you.
+Without a premium Nexus account, you have to manually click on a download button every time a new mod is added to the queue. Since modlists often have hundreds of mods, this is time consuming. Wabbajack Autodownload is a macro automates clicking on the download button for you.
 
 ## Warning
 
