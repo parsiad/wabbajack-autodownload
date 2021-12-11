@@ -18,6 +18,10 @@ Using a bot to download from Nexus is in direct violation of [their TOS](https:/
 
 Use this at your own risk.
 
+## Known issues
+
+Some users have reported that the macro fails to automatically click the Nexus ![slow download](https://github.com/parsiad/wabbajack-autodownload/blob/main/images/slow_download.png?raw=true) button. If you encounter the same problem, refer to [this thread detailing a workaround](https://github.com/parsiad/wabbajack-autodownload/issues/1#issuecomment-988203548).
+
 ## Usage
 
 1. Download [Wabbajack Autodownload v0.1.1](https://github.com/parsiad/wabbajack-autodownload/archive/refs/tags/v0.1.1.zip)
