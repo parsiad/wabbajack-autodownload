@@ -1,8 +1,10 @@
+# This project has been archived! Please use the actively maintained 👉 [Nexus AutoDL](https://parsiad.ca/nexus-autodl) 👈 instead.
+
 <p align="center">
   <img alt="Wabbajack Autodownload" src="https://raw.githubusercontent.com/parsiad/wabbajack-autodownload/master/static/logo.png">
 </p>
 
-
+## About
 
 **Wabbajack Autodownload** automates downloading a [Wabbajack](https://www.wabbajack.org) modlist *without* a premium Nexus account.
 
